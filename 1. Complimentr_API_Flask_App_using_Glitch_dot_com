@@ -1,0 +1,5 @@
+Complimentr is a demo Flask Web Application to send custom compliments to a person using their phone number and the recent compliments are accessed through a RESTful API.
+
+Live Site: https://api-in-flask-app.glitch.me
+
+Code: https://glitch.com/edit/#!/api-in-flask-app
